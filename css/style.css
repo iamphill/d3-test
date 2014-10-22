@@ -1,0 +1,11 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.holder {
+    height: 300px;
+    width: 100%;
+    position: relative;
+}
