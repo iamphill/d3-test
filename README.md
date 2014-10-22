@@ -8,7 +8,7 @@ So this is what this is, a way for me to mess around with D3.js to create crazy 
 
 The following examples are in the repo:
 
-### [Hexagons](/iamphill/d3-test/blob/master/hexagaon.html)
+### [Hexagons](hexagaon.html)
 
 Creates rows & columns of hexagons to fill the width and height of the containing element. The colours are auto-generated. Hovering over a hexagon changes to colour to be darker (also auto-generated) and scales the hexagon.
 
